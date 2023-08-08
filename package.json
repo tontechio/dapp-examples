@@ -1,0 +1,21 @@
+{
+  "name": "dapp-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "subscriptions/subscribe_accounts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "graphql-ws": "^5.9.0",
+    "react": "^18.2.0",
+    "request": "^2.88.2",
+    "subscriptions-transport-ws": "^0.11.0",
+    "tonweb": "^0.0.59",
+    "tonweb-mnemonic": "^1.0.1",
+    "ws": "^8.8.0"
+  }
+}
